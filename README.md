@@ -10,5 +10,5 @@
 **_To Make it even better_**
 - Inspect element of the LumberJack game window
 - Go to source and you will see the JS file
-- ```Ctrl + A``` the ```JS-script.txt``` file and copy paste it to the JS file (do not copy the JS-script.js)
+- ```Ctrl + A``` the ```JS-script.txt``` file and copy paste it to the JS file
 - Open the LumberJack game window (all the branches will spawn on the left side only)
