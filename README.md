@@ -1,5 +1,5 @@
 # LumberJack-hack
-## Script to hack lumberjack telegram bot game
+## Script to hack the lumberjack telegram bot game
 
 **_To Run the Script_**
 - Clone the repo 
