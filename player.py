@@ -11,7 +11,7 @@ RIGHT = (187, 0)
 
 
 def start():
-    print("starting...")
+    print("Reading...")
     time.sleep(1)
 
     pyautogui.press("space")
