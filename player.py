@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 pyautogui.PAUSE = (
-    0.0  # change to 0.1 if running py script only without modifying the JS script
+    0.1  # change to 0.1 if running py script only without modifying the JS script
 )
 DELAY = 0.00
 BG = (211, 247, 255)
