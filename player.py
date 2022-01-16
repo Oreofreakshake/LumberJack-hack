@@ -1,7 +1,9 @@
 import pyautogui
 import time
 
-pyautogui.PAUSE = 0.0
+pyautogui.PAUSE = (
+    0.0  # change to 0.1 if running py script only without modifying the JS script
+)
 DELAY = 0.00
 BG = (211, 247, 255)
 REGION_OLD = (851, 500, 217, 1)
@@ -18,7 +20,9 @@ def start():
     time.sleep(0.5)
 
     pyautogui.press("left")
+    print("Pressed left ")
     pyautogui.press("right")
+    print("Pressed right")
     # time.sleep(DELAY)
 
 
